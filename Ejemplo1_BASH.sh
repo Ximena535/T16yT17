@@ -1,4 +1,3 @@
-
 #!/bin/bash 
 #Ejemplo de scanner de puertos 
 #Obtenido de pentestlab.wordpress.com 
