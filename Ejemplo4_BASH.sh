@@ -1,4 +1,3 @@
-
 #!/bin/bash 
 # 
 #Cybersecurity Ops with bash 
