@@ -1,4 +1,3 @@
-
 #!/bin/bash 
 function is_alive_ping() { 
   ping -c 1 $1 > /dev/null 2>&1 
